@@ -1,0 +1,67 @@
+PODS:
+  - Alamofire (4.8.2)
+  - CodableAlamofire (1.1.2):
+    - Alamofire (~> 4.0)
+  - EFInternetIndicator (0.4.0):
+    - EFInternetIndicator/Interface (= 0.4.0)
+  - EFInternetIndicator/Interface (0.4.0):
+    - SwiftMessages
+  - IQKeyboardManagerSwift (6.5.6)
+  - KeychainSwift (19.0.0)
+  - Kingfisher (4.9.0)
+  - Realm (10.5.1):
+    - Realm/Headers (= 10.5.1)
+  - Realm/Headers (10.5.1)
+  - RealmSwift (10.5.1):
+    - Realm (= 10.5.1)
+  - SkeletonView (1.4.2)
+  - SwiftMessages (8.0.3):
+    - SwiftMessages/App (= 8.0.3)
+  - SwiftMessages/App (8.0.3)
+  - SwiftyJSON (5.0.0)
+  - Wormholy (1.6.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8.2)
+  - CodableAlamofire
+  - EFInternetIndicator
+  - IQKeyboardManagerSwift
+  - KeychainSwift
+  - Kingfisher (= 4.9.0)
+  - RealmSwift
+  - SkeletonView (~> 1.4.2)
+  - SwiftyJSON
+  - Wormholy
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CodableAlamofire
+    - EFInternetIndicator
+    - IQKeyboardManagerSwift
+    - KeychainSwift
+    - Kingfisher
+    - Realm
+    - RealmSwift
+    - SkeletonView
+    - SwiftMessages
+    - SwiftyJSON
+    - Wormholy
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  CodableAlamofire: b7adfb2e5e980392014b4b3f3b8b62c01b9de4aa
+  EFInternetIndicator: a6077679e15191889a783a06624390b73e8109dc
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  KeychainSwift: a06190cf933ad46b1e0abc3d77d29c06331715c7
+  Kingfisher: 64539b51826b778206daa6ed815d12653caa69dd
+  Realm: 77fcb4e0b9f2963ea06f584749a0d7dc9cab95e1
+  RealmSwift: 6abe6aa6cd8b70cc1a87afcb9232cabea74ff1ac
+  SkeletonView: c2523c3c8c6510e273e49a3bf364a434744c3914
+  SwiftMessages: 063ec9ffea3ffa7d17ba595157a9ec78e4fe045f
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  Wormholy: bfc1c8679eefd0edd92638758e21c3961b1b3b50
+
+PODFILE CHECKSUM: 4e30f87e32f800a60c9b27385bf5443eb864f82d
+
+COCOAPODS: 1.10.0
